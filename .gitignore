@@ -1,3 +1,6 @@
+train/*
+test/*
+images/*
 depths.csv
 sample_submission.csv
 test.zip
